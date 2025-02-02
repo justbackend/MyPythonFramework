@@ -1,0 +1,4 @@
+gunicorn
+webob
+parse
+Jinja2
